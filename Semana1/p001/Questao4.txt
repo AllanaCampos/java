@@ -1,0 +1,3 @@
+Em Java ao contrário de C++ não se trabalha diretamente com o endereço de memória.
+Em Java tudo é orientado a objeto e todos as variáveis declaradas são uma referência a uma posição da memória que possui o dado ao qual tais variáveis foram instanciadas.
+C++ permite ao usuário a opção de utilizar ponteiros para acessar a memória de modo semelhante ao que o Java faz naturalmente.
